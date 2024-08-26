@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aWHxAxy6EIxTKZHHOGSiKYdmJ/gNYf43bT+RCTL9w+A=",
+  "Source": "clima-tempo-api",
+  "BasePath": "_content/clima-tempo-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
